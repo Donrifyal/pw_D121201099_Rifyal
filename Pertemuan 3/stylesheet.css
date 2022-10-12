@@ -1,0 +1,19 @@
+h1{
+    color: tomato;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+}
+
+p{
+    font-style: italic;
+}
+
+ul.a{
+    color: green;
+}
+
+ol.a{
+    color: greenyellow;
+}
+
