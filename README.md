@@ -1,8 +1,8 @@
 # Project Title
 
-##Nama    : Rifyal Muhammad Imsan
-##NIM     : D121201099
-##Kelas   : PEMROGRAMAN WEB C
+## Nama    : Rifyal Muhammad Imsan
+## NIM     : D121201099
+## Kelas   : PEMROGRAMAN WEB C
 
 Anggota Kelompok:
 
